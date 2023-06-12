@@ -1,4 +1,4 @@
-# Football Highllights
+# Football Highlights
 Showing football games with STATISTICS and HIGHLIGHTS video of game.
 
 # Usage
